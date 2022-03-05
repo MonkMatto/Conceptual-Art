@@ -1,0 +1,16 @@
+NAME: ERROR
+ARTIST: Matto / MonkMatto
+ADDRESS: 0xA6a4Fe416F8Bf46bc3bCA068aC8b1fC4DF760653
+NFT DESCRIPTION...
+10kB of garbled data that is guaranteed to cause trouble. There is no image that can be shown in association with this NFT, but any website or app trying to display it will instead display their default 'broken image' or 'loading' image/icon/animation.
+
+The pile of data this NFT represents was uploaded to IPFS and is redundantly stored because it is incredibly valuable. Download this masterpiece from...
+
+https://github.com/MonkMatto/Conceptual-Art/tree/main/ERROR 
+
+https://app.ardrive.io/#/file/888104b7-eb10-43db-bd49-9052f36c5197/view
+
+
+ROYALTIES: 10%
+PROPERTIES/TRAITS:
+Series : ERROR
